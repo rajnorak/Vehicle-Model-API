@@ -260,16 +260,6 @@
         "website":"https://www.cardekho.com/kia/seltos"
    },
     {
-        "id":24,
-        "companyName": "BMWOOO",
-        "category": "BikeEEEE",
-        "modelName":"G 310R",
-        "mileage": "312kmpl",
-        "approx.Cost": "2.85-2.99 lakh Rs",
-        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
-    },
-    
-{
         "id":23,
         "companyName": "Hyundai",
         "category": "Car",
@@ -277,17 +267,8 @@
         "mileage": "19.65 to 25.0kmpl",
         "approx.Cost": "Rs.707,000",
         "website":"https://www.hyundai.com/in/en/find-a-car/i20/specification"
-   },
-     {
-        "id":24,
-        "companyName": "Jaguar",
-        "category": "Car",
-        "modelName":"F-type",
-        "mileage": "9.28-12.3 kmpl",
-        "approx.Cost": "Rs.97.93 - 153.03 Lakh",
-        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
-    },
-   {   
+   }
+   
         "id":28,
         "companyName": "Maruti 800",
         "category": "Car",
@@ -351,15 +332,6 @@
         "approx.Cost": "2.6CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
-     {
-        "id":27,
-        "companyName": "Koenigsegg",
-        "category": "Sports car",
-        "modelName":"Agera R",
-        "mileage": "8 kmpl",
-        "approx.Cost": "Rs 12 cr*",
-        "website":"https://www.cardekho.com/carmodels/Koenigsegg/Koenigsegg_Agera"
-   },
     {
         "id":35,
         "companyName": "Tesla",
@@ -414,16 +386,6 @@
         "approx.Cost": "1.68 CrRs",
         "website":"https://www.cardekho.com/audi/e-tron-gt"
    },
-     {
-
-        "id":30,
-        "companyName": "Royal Enfield",
-        "category": "Bike",
-        "modelName":"Royal Enfield Himalayan",
-        "mileage": "32.04 Kmpl",
-        "approx.Cost": "2.14-2.22 Lakh",
-        "website":"https://www.zigwheels.com/royal-enfield-bikes/himalayan#leadform"
-
    {
         "id":41,
         "companyName": "MG Hector",
@@ -601,6 +563,15 @@
         "mileage": "25kmpl",
         "approx.Cost": "7-11.99 lakh Rs",
         "website":"https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20"
+    }
+   {
+        "id":63,
+        "companyName": "Porsche",
+        "category": "car",
+        "modelName":"cayenne",
+        "mileage": "10kmpl",
+        "approx.Cost": "1-1.5 crore Indian Rupees",
+        "website":"https://www.carwale.com/porsche-cars/cayenne/"
     }
 
 
