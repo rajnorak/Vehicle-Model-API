@@ -228,7 +228,17 @@
         "mileage": "20.8 kmpl",
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
-   }
+   },
+    {
+        "id":24,
+        "companyName": "BMWOOO",
+        "category": "BikeEEEE",
+        "modelName":"G 310R",
+        "mileage": "312kmpl",
+        "approx.Cost": "2.85-2.99 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+    },
+    
    
 
 
