@@ -470,6 +470,25 @@
         "approx.Cost": "1.3 lakhs Rs",
         "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
   },
+{
+        "id":39,
+        "companyName": "ktm",
+        "category": "Bike",
+        "modelName":"pulsar ",
+        "mileage": "48 kmpl",
+        "approx.Cost": "2.4 lakhs Rs",
+        "website":"https://www.bikewale.com/bajaj-bi/pulsar/"
+  }
+
+{
+        "id":40,
+        "companyName": "Morris Garages",
+        "category": "SUV",
+        "modelName":"MG Hector",
+        "mileage": "15 kmpl",
+        "approx.Cost": "20.4 lakhs Rs",
+        "website":"https://www.mgmotor.co.in/vehicles/mghector/digital-kmi?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb_I6c7lUn3Ct4EO8Ub8jbrxzXQsUXh2K3g22UVruIKSOJvaCRcubohoCfsYQAvD_BwE&searchstring=dk01?ecid=Search:MG-Hector:adwords-IA-kmi:IA:Jan-22:Post-Price-Change&ef_id=CjwKCAjwp9qZBhBkEiwAsYFsb_I6c7lUn3Ct4EO8Ub8jbrxzXQsUXh2K3g22UVruIKSOJvaCRcubohoCfsYQAvD_BwE:G:s&s_kwcid=AL!8805!3!601124341338!p!!g!!mg%20hector"
+  }
  {
         "id":50,
         "companyName": "Mahendra",
