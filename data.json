@@ -347,6 +347,15 @@
         "approx.Cost": "14 lakhsRs",
         "website":"https://droom.in/tesla-cars/model-x"
    },
+ {
+        "id":53,
+        "companyName": "Bajaj",
+        "category": "Bike",
+        "modelName":"NS150",
+        "mileage": "35-40kmpl",
+        "approx.Cost": "1.2 lakh Rs",
+        "website":"https://www.bajajauto.com/bikes/pulsar/pulsar-ns125"
+    },
      {
         "id":37,
         "companyName": "VOLVO",
