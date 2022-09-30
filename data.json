@@ -229,6 +229,15 @@
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
    }
+     {
+        "id":24,
+        "companyName": "Jaguar",
+        "category": "Car",
+        "modelName":"F-type",
+        "mileage": "9.28-12.3 kmpl",
+        "approx.Cost": "Rs.97.93 - 153.03 Lakh",
+        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
+    },
    
 
 
