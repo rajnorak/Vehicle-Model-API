@@ -386,6 +386,16 @@
         "approx.Cost": "1.68 CrRs",
         "website":"https://www.cardekho.com/audi/e-tron-gt"
    },
+     {
+
+        "id":30,
+        "companyName": "Royal Enfield",
+        "category": "Bike",
+        "modelName":"Royal Enfield Himalayan",
+        "mileage": "32.04 Kmpl",
+        "approx.Cost": "2.14-2.22 Lakh",
+        "website":"https://www.zigwheels.com/royal-enfield-bikes/himalayan#leadform"
+
    {
         "id":41,
         "companyName": "MG Hector",
