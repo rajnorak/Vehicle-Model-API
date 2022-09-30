@@ -260,6 +260,16 @@
         "website":"https://www.cardekho.com/kia/seltos"
    },
     {
+        "id":24,
+        "companyName": "BMWOOO",
+        "category": "BikeEEEE",
+        "modelName":"G 310R",
+        "mileage": "312kmpl",
+        "approx.Cost": "2.85-2.99 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+    },
+    
+{
         "id":23,
         "companyName": "Hyundai",
         "category": "Car",
@@ -267,7 +277,7 @@
         "mileage": "19.65 to 25.0kmpl",
         "approx.Cost": "Rs.707,000",
         "website":"https://www.hyundai.com/in/en/find-a-car/i20/specification"
-   }
+   },
      {
         "id":24,
         "companyName": "Jaguar",
@@ -277,7 +287,7 @@
         "approx.Cost": "Rs.97.93 - 153.03 Lakh",
         "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
     },
-   
+   {   
         "id":28,
         "companyName": "Maruti 800",
         "category": "Car",
