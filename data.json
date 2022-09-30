@@ -341,6 +341,15 @@
         "approx.Cost": "2.6CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
+     {
+        "id":27,
+        "companyName": "Koenigsegg",
+        "category": "Sports car",
+        "modelName":"Agera R",
+        "mileage": "8 kmpl",
+        "approx.Cost": "Rs 12 cr*",
+        "website":"https://www.cardekho.com/carmodels/Koenigsegg/Koenigsegg_Agera"
+   },
     {
         "id":35,
         "companyName": "Tesla",
