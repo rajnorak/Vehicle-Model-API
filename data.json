@@ -1,10 +1,10 @@
 [
     {
-        "id":10000,
-        "companyName": "Mustang",
-        "category": "Car",
-        "modelName":"CDS10",
-        "mileage": "5kmpl",
+        "id":1,
+        "companyName": "BMW",
+        "category": "Bike",
+        "modelName":"G 310R",
+        "mileage": "32kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     },
@@ -505,8 +505,7 @@
         "mileage": "12kmpl",
         "approx.Cost": "42 CrRs",
         "website":"https://www.carmodel.com/trademark/apex-replicas?enc=1"
-
-   } 
+   } ,
     
     {
         "id":53,
@@ -534,7 +533,15 @@
         "mileage": "180 km per charge",
         "approx.Cost": "1 lakh",
         "website":"https://olaelectric.com/s1"
-   }
+   },
+   {
+        "id" : 56,
+        "companyName" : "Royal Enfield Bullet",
+        "category" : "Motorcycle",
+        "modelName" : "Royal Enfield Bullet 350",
+        "milage" : " 40.8 Kmpl",
+        "approx .Cost" : "1.47 - 1.63 Lakh",
+        "website" : "https://www.google.com/search?q=royal+enfield+bullet+350&bih=609&biw=1280&rlz=1C1YTUH_enIN1014IN1014&hl=mr&sxsrf=ALiCzsatjCZpn8xVZmOufHCMuc1_y2_3SA%3A1664566273673&ei=AUQ3Y63YKLORmge9652gBQ&oq=royal+enfield+b&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCAAQywEyBQgAEMsBMgUIABDLATIICAAQyQMQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6CwgAEB4QsAMQDRAFOgsIABAeELADEAgQDToHCCMQsQIQJzoQCAAQsQMQgwEQsQMQgwEQDToECAAQDToHCAAQChDLAToHCC4QChDLAToGCAAQDRATOgYIABAeEA06CAgAEB4QDRATOgcIIxDqAhAnOgcILhDqAhAnOgQIIxAnOgsIABCABBCxAxCDAToFCAAQxAI6EQguEIAEELEDEIMBEMcBENEDOggIABCxAxCDAToFCAAQgAQ6BAgAEEM6BQguEMQCOhAILhCxAxCDARDHARDRAxBDOgQILhBDOgsILhCABBCxAxCDAToICC4QsQMQgwE6BQguEIAEOg4ILhCABBCxAxCDARDUAjoFCAAQsQM6CwguEMcBENEDEMsBOgUILhDLAUoECEEYAUoECEYYAFC0BFib1gFgiO8BaAVwAHgBgAGYAogBpTiSAQcwLjIxLjE0mAEAoAEBsAEKyAEFwAEB&sclient=gws-wiz
+    }
 
 ]
-
