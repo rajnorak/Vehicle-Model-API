@@ -392,6 +392,16 @@
         "approx.Cost": "20.11 Lakh Rs",
         "website":"https://www.carwale.com/mg-cars/hector/sharp-20-diesel-turbo-mt/"
    },
+    {
+        "id":57,
+        "companyName": "rolls royce",
+        "category": "Car",
+        "modelName":" Ghost",
+        "mileage": "6.3 kmpl",
+        "approx.Cost": "Rs 6 - 7.9 crore",
+        "website":"https://www.rolls-roycemotorcars.com/en_GB/showroom/ghost.html"
+   },
+
 
    {
        "id":42,
