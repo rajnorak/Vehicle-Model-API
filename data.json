@@ -253,7 +253,6 @@
    {
 
         "id":27,
-
         "companyName": "Kia",
         "category": "Car",
         "modelName":"Seltos",
@@ -415,7 +414,6 @@
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     },
     {
-
        "id":44,
         "companyName": "TATA",
         "category": "Car",
@@ -423,7 +421,7 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/tata/harrier"
-   },
+    },
    {
         "id":45,
         "companyName": "Mahindra",
@@ -433,6 +431,7 @@
         "approx.Cost": "11-13 lakhs",
         "website":"https://www.carwale.com/mahindra-cars/scorpio/"
    },
+
    {
         "id":46,
         "companyName": "Maruti Wagon R",
@@ -497,6 +496,7 @@
         "mileage": "12kmpl",
         "approx.Cost": "42 CrRs",
         "website":"https://www.carmodel.com/trademark/apex-replicas?enc=1"
+
    } 
     
     {
@@ -508,9 +508,24 @@
         "approx.Cost": "45 lakh Rs",
         "website":"https://www.bikewale.com/Fortuner/LEGENDER/"
     },
-
-
-
+   {
+        "id":54,
+        "companyName": "Bajaj",
+        "category": "Bike",
+        "modelName":"NS150",
+        "mileage": "35-40kmpl",
+        "approx.Cost": "1.2 lakh Rs",
+        "website":"https://www.bajajauto.com/bikes/pulsar/pulsar-ns125"
+    },
+    {
+       "id":55,
+        "companyName": "OLA",
+        "category": "Scooter",
+        "modelName":"OLA S1",
+        "mileage": "180 km per charge",
+        "approx.Cost": "1 lakh",
+        "website":"https://olaelectric.com/s1"
+   }
 
 ]
 
