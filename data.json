@@ -133,6 +133,7 @@
         "website":"https://www.audi.in/in/web/en/customer-area/service-warranty/audi-campaign/campaign-r8.html"
     },
     
+    
     {
         "id":15,
         "companyName": "BYD",
@@ -183,6 +184,8 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
+
+    
     {
        "id":20,
         "companyName": "Honda",
@@ -230,7 +233,6 @@
         "website":"https://www.volkswagen.co.in/en/models/taigun.html"
    },
    {
-
         "id":25,
         "companyName": "Tata",
         "category": "Car",
@@ -238,7 +240,6 @@
         "mileage": "25.39kmpl",
         "approx.Cost": "2,05 Lakh",
         "website":"https://www.carwale.com/tata-cars/nano/"
-
    },
      {
        "id":26,
@@ -248,10 +249,8 @@
         "mileage": "12-16.39kmpl",
         "approx.Cost": "10 Lakh",
         "website":"https://www.carwale.com/tata-cars/nexon/"
-
    },
    {
-
         "id":27,
         "companyName": "Kia",
         "category": "Car",
@@ -259,7 +258,6 @@
         "mileage": "20.8 kmpl",
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
-
    },
     {
         "id":28,
@@ -287,11 +285,9 @@
         "mileage": "20.8 kmpl",
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.bikewala.com/Discover"
-
-
    },
     
-       {
+    {
         "id":31,
         "companyName": "Maruti Suzuki",
         "category": "Car",
@@ -337,7 +333,6 @@
         "website":"https://www.tesla.com/modelx"
    },
    {
- 
        "id":36,
         "companyName": "TESLA",
         "category": "Car",
@@ -346,7 +341,7 @@
         "approx.Cost": "14 lakhsRs",
         "website":"https://droom.in/tesla-cars/model-x"
    },
-     {
+    {
         "id":37,
         "companyName": "VOLVO",
         "category": "CAR",
@@ -374,7 +369,6 @@
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     },
    {
-
         "id":40,
         "companyName": "Audi",
         "category": "Car",
@@ -387,21 +381,11 @@
         "id":41,
         "companyName": "MG Hector",
         "category": "Car",
-        "modelName":"HECTOR DIESEL 2.0 MT STYLE BSVI",
-        "mileage": "17.8kWh",
-        "approx.Cost": "20.11 Lakh Rs",
-        "website":"https://www.carwale.com/mg-cars/hector/sharp-20-diesel-turbo-mt/"
+        "modelName":"Mz",
+        "mileage": "10kmpl",
+        "approx.Cost": "2.34 CrRs",
+        "website":"https://www.cardekho.com/bmw/m5"
    },
-    {
-        "id":57,
-        "companyName": "rolls royce",
-        "category": "Car",
-        "modelName":" Ghost",
-        "mileage": "6.3 kmpl",
-        "approx.Cost": "Rs 6 - 7.9 crore",
-        "website":"https://www.rolls-roycemotorcars.com/en_GB/showroom/ghost.html"
-   },
-
 
    {
        "id":42,
@@ -412,7 +396,6 @@
         "approx.Cost": "3 lakhs",
         "website":"https://www.cardekho.com/carmodels/Tata/Tata_Nano"
    },
-
 
     {
         "id":43,
@@ -431,7 +414,7 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/tata/harrier"
-    },
+ },
    {
         "id":45,
         "companyName": "Mahindra",
@@ -452,7 +435,6 @@
         "website":"https://www.googleadservices.com/pagead/"
    },
    {
-
        "id":47,
         "companyName": "TVS",
         "category": "Bike",
@@ -470,35 +452,7 @@
         "approx.Cost": "1.3 lakhs Rs",
         "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
   },
-{
-        "id":39,
-        "companyName": "ktm",
-        "category": "Bike",
-        "modelName":"pulsar ",
-        "mileage": "48 kmpl",
-        "approx.Cost": "2.4 lakhs Rs",
-        "website":"https://www.bikewale.com/bajaj-bi/pulsar/"
-  }
-
-{
-        "id":40,
-        "companyName": "Morris Garages",
-        "category": "SUV",
-        "modelName":"MG Hector",
-        "mileage": "15 kmpl",
-        "approx.Cost": "20.4 lakhs Rs",
-        "website":"https://www.mgmotor.co.in/vehicles/mghector/digital-kmi?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb_I6c7lUn3Ct4EO8Ub8jbrxzXQsUXh2K3g22UVruIKSOJvaCRcubohoCfsYQAvD_BwE&searchstring=dk01?ecid=Search:MG-Hector:adwords-IA-kmi:IA:Jan-22:Post-Price-Change&ef_id=CjwKCAjwp9qZBhBkEiwAsYFsb_I6c7lUn3Ct4EO8Ub8jbrxzXQsUXh2K3g22UVruIKSOJvaCRcubohoCfsYQAvD_BwE:G:s&s_kwcid=AL!8805!3!601124341338!p!!g!!mg%20hector"
-  }
- {
-        "id":50,
-        "companyName": "Mahendra",
-        "category": "car",
-        "modelName":"thar",
-        "mileage": "15.2 kmpl",
-        "approx.Cost": "15 lakhs Rs",
-        "website":"https://www.cardekho.com/mahindra/thar/mileage"
-
-  },
+ 
  {
         "id":49,
         "companyName": "pulsur",
@@ -509,16 +463,36 @@
         "website":"https://www.bikewale.com/pulsar-bikes/pulsar-220/"
   },
   {
-       "id":50,
+        "id":50,
+        "companyName": "Mahendra",
+        "category": "car",
+        "modelName":"thar",
+        "mileage": "15.2 kmpl",
+        "approx.Cost": "15 lakhs Rs",
+        "website":"https://www.cardekho.com/mahindra/thar/mileage"
+
+  },
+    {
+       "id":51,
         "companyName": "BMW m3 competition",
         "category": "Car",
         "modelName":"M3",
         "mileage": "9.12kmpl",
         "approx.Cost": "3.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m3"
+   } ,
+  {
+       "id":52,
+        "companyName": "Jaguar Land Rover",
+        "category": "Car",
+        "modelName":"Range Rover Velar",
+        "mileage": "15.8 kmpl",
+        "approx.Cost": "89.41 Lakh Rs",
+        "website":"https://www.landrover.com/vehicles/range-rover-velar/index.html"
+
    },
     {
-        "id":51,
+        "id":53,
         "companyName": "Mahindra",
         "category": "SUV",
         "modelName":"Scorpio N",
@@ -527,17 +501,17 @@
         "website":"https://auto.mahindra.com/suv/scorpio-n"
     },
     {
-       "id":52,
+       "id":54,
         "companyName": "Apex Replicas",
         "category": "Car",
         "modelName":" 1:18 Ferrari 458 Italia GT3",
         "mileage": "12kmpl",
         "approx.Cost": "42 CrRs",
         "website":"https://www.carmodel.com/trademark/apex-replicas?enc=1"
-   } ,
+   },
     
     {
-        "id":53,
+        "id":55,
         "companyName": "Fortuner",
         "category": "Car",
         "modelName":"LEGENDER",
@@ -546,7 +520,7 @@
         "website":"https://www.bikewale.com/Fortuner/LEGENDER/"
     },
    {
-        "id":54,
+        "id":56,
         "companyName": "Bajaj",
         "category": "Bike",
         "modelName":"NS150",
@@ -555,7 +529,7 @@
         "website":"https://www.bajajauto.com/bikes/pulsar/pulsar-ns125"
     },
     {
-       "id":55,
+       "id":57,
         "companyName": "OLA",
         "category": "Scooter",
         "modelName":"OLA S1",
@@ -564,13 +538,23 @@
         "website":"https://olaelectric.com/s1"
    },
    {
-        "id" : 56,
+        "id" : 58,
         "companyName" : "Royal Enfield Bullet",
         "category" : "Motorcycle",
         "modelName" : "Royal Enfield Bullet 350",
         "milage" : " 40.8 Kmpl",
         "approx .Cost" : "1.47 - 1.63 Lakh",
         "website" : "https://www.google.com/search?q=royal+enfield+bullet+350&bih=609&biw=1280&rlz=1C1YTUH_enIN1014IN1014&hl=mr&sxsrf=ALiCzsatjCZpn8xVZmOufHCMuc1_y2_3SA%3A1664566273673&ei=AUQ3Y63YKLORmge9652gBQ&oq=royal+enfield+b&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCAAQywEyBQgAEMsBMgUIABDLATIICAAQyQMQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6CwgAEB4QsAMQDRAFOgsIABAeELADEAgQDToHCCMQsQIQJzoQCAAQsQMQgwEQsQMQgwEQDToECAAQDToHCAAQChDLAToHCC4QChDLAToGCAAQDRATOgYIABAeEA06CAgAEB4QDRATOgcIIxDqAhAnOgcILhDqAhAnOgQIIxAnOgsIABCABBCxAxCDAToFCAAQxAI6EQguEIAEELEDEIMBEMcBENEDOggIABCxAxCDAToFCAAQgAQ6BAgAEEM6BQguEMQCOhAILhCxAxCDARDHARDRAxBDOgQILhBDOgsILhCABBCxAxCDAToICC4QsQMQgwE6BQguEIAEOg4ILhCABBCxAxCDARDUAjoFCAAQsQM6CwguEMcBENEDEMsBOgUILhDLAUoECEEYAUoECEYYAFC0BFib1gFgiO8BaAVwAHgBgAGYAogBpTiSAQcwLjIxLjE0mAEAoAEBsAEKyAEFwAEB&sclient=gws-wiz
+    },
+    {
+        "id":59,
+        "companyName": "hyundai",
+        "category": "car",
+        "modelName":"i20",
+        "mileage": "25kmpl",
+        "approx.Cost": "7-11.99 lakh Rs",
+        "website":"https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20"
     }
+
 
 ]
