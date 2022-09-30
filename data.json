@@ -220,6 +220,15 @@
         "mileage": "20.8 kmpl",
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
+   },
+    {
+        "id":23,
+        "companyName": "Hyundai",
+        "category": "Car",
+        "modelName":"i20,1.2|Kappa Petrol 5-Speed Manual 1.2 Magna",
+        "mileage": "19.65 to 25.0kmpl",
+        "approx.Cost": "Rs.707,000",
+        "website":"https://www.hyundai.com/in/en/find-a-car/i20/specification"
    }
    
 
