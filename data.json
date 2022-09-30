@@ -268,6 +268,15 @@
         "approx.Cost": "Rs.707,000",
         "website":"https://www.hyundai.com/in/en/find-a-car/i20/specification"
    }
+     {
+        "id":24,
+        "companyName": "Jaguar",
+        "category": "Car",
+        "modelName":"F-type",
+        "mileage": "9.28-12.3 kmpl",
+        "approx.Cost": "Rs.97.93 - 153.03 Lakh",
+        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
+    },
    
         "id":28,
         "companyName": "Maruti 800",
