@@ -347,15 +347,6 @@
         "approx.Cost": "14 lakhsRs",
         "website":"https://droom.in/tesla-cars/model-x"
    },
- {
-        "id":53,
-        "companyName": "Bajaj",
-        "category": "Bike",
-        "modelName":"NS150",
-        "mileage": "35-40kmpl",
-        "approx.Cost": "1.2 lakh Rs",
-        "website":"https://www.bajajauto.com/bikes/pulsar/pulsar-ns125"
-    },
      {
         "id":37,
         "companyName": "VOLVO",
@@ -507,6 +498,16 @@
         "approx.Cost": "42 CrRs",
         "website":"https://www.carmodel.com/trademark/apex-replicas?enc=1"
    } 
+    
+    {
+        "id":53,
+        "companyName": "Fortuner",
+        "category": "Car",
+        "modelName":"LEGENDER",
+        "mileage": "11.15kmpl",
+        "approx.Cost": "45 lakh Rs",
+        "website":"https://www.bikewale.com/Fortuner/LEGENDER/"
+    },
 
 
 
